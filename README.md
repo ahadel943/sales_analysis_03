@@ -64,6 +64,7 @@ After cleaning, preparing and understanding the data found the following notes
     * Sales Standard Deviation: $758 (**January $772**, **February $729**, **March $721** and **April $724**).
 
 2) Based on our time series analysis the following was found:
+    ![total_sales_amount_by_month](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/1.total_sales_amount_by_month.jpg)
     * The sales amount has been increasing steadily over the four-month period, from **$47,300** in **January** to **$54,400** in **April**. This indicates positive sales growth over time.
     * **January: $47,300**
     * **February: $49,600**
@@ -74,6 +75,7 @@ After cleaning, preparing and understanding the data found the following notes
     * **February** to **March**: **5.44%**
     * **March** to **April**: **4.02%**
     * While the overall trend is positive, there are fluctuations in the growth rates from month to month. Understanding these fluctuations can help identify seasonal patterns or the impact of specific events or promotions on sales performance.
+    ![total_sales_amount_by_weekday](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/2.total_sales_amount_by_weekday.jpg)
     * In the month of **January**:
       * Highest Sales: **Tuesday** (**$9,300**)
       * Lowest Sales: **Thursday** (**$3,800**)
@@ -100,21 +102,27 @@ After cleaning, preparing and understanding the data found the following notes
     * **While there are some consistent patterns, there are also variations in sales distribution across months, indicating that external factors or seasonal influences may affect purchasing behavior**.
     
 3) Based on our product category performance analysis we found the following:
+    ![total_sales_amount_by_product_category](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/3.total_sales_amount_by_product_category.jpg)
     * The **Electronics** category generated the highest income totaling **$125,900** which represents a **61.84%** of the total sales amount.
     * The **Clothing** comes in next with a total of **$77,700** which is **38.16%** of the total sales amount.
     * By breaking down the sales amount by month both categories maintaining nearly the exact same perforrmance the **Electronics** (**61.58%** to **62.37%**) while the **Clothing** (**37.63%** to **38.42%**).
+    ![total_order_count_by_product_category](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/4.total_order_count_by_product_category.jpg)
     * Following the same sales pattern both of the categories tend to nearly maintain the same performace in orders count.
     * The **Electronics** generated an order count of **24** orders which is **60%** of the total orders count while Clothing generated a total of **16** orders which is **40%** of the total orders count.
 
 4) The following insights were found in our regional sales analysis:
+    ![total_sales_amount_by_region](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/5.total_sales_amount_by_region.jpg)
     * The **North** region leads in sales amount generation with a total of **$92,300** followed by the **West** region totaling **$58,800** and finally the **South** region with a total of **$52,500**.
     * A notable pattern in our regional data the higher the sales generated the higher the average order value, **North** has the highest AOV (**$5,769**) followed by **West** with an AOV of (**$4,900**) and finally **South** with an AOV of (**$4,375**).
+    ![total_orders_count_by_region](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/6.total_orders_count_by_region.jpg)
     * The same sales amount and AOV pattern has repeated in the order count distribution with one difference which is the **South** and **West** has the same orders count **12** orders and yet the **West** region generated more sales than **South** the reason for that might be the higher AOV.
     * The **North** region also leads the orders count generated with a total of **16** orders which is **40%** of the total orders amount.
 
 5) Based on the customer segment analysis the following insights were found:
+    ![total_order_count_by_customer_segment](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/7.total_order_count_by_customer_segment.jpg)
     * In terms of oders coount both customer segment generated (**Retail** and **Wholesale**) tha same count **20** orders.
     * By breaking down the orders count by month each segment followed the same pattern, **5** orders per month
+    ![total_sales_amount_by_customer_segment](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/8.total_sales_amount_by_customer_segment.jpg)
     * Based on our data, **Retail** generated the highest sales amount with a total of **$103,800** which is **50.98%** while **Wholesale** generated **$99,800** in total which represents **49.02%** of the sales totals.
     * Despite of the same orders count for both segment the **Retail** segment generated more sales and it has a higher **AOV** (**$5,190**) while the **AOV** of **Wholesale** segment is (**$4,990**).
     * Except for the month of **February**, **Retail** tends to geneate more sales than **Wholesale**
@@ -132,16 +140,19 @@ After cleaning, preparing and understanding the data found the following notes
          Wholesale: **$26,700** 
 
 6) Based on the analysis conducted on our salespersons performance the following insights were found:
+    ![total_sales_amount_by_salesperson](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/9.total_sales_amount_by_salesperson.jpg)
     * A notable variation in sales performance with sales amounts ranging from $**17,200** to **$46,700**
     * **John**, **Lisa** and **James** are the top performers with totals of **$46,700**, *$42,700* and **$42,700** respectivly.
     * **John**, **Lisa** and **James** tend to stand out as the top performers across the entire period.
     * **David** and **Emily** fall into the middle range of sales amount, with sales amounts between **$21,000** and **$33,300**.
     * **Michael** has the lowest sales amount among the salespersons with the total of **$17,200**, indicating that there may be areas for improvement in his sales approach or strategies.
     * **Lisa** and **James** both have generated the same sales amount of **$42,700**, This suggests that they may have similar sales strategies or are working with similar client bases.
+    ![average_order_value_by_salesperson](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/10.average_order_value_by_salesperson.jpg)
     * As expected there is a notable variation in the salesperson **AOV** ranging from **$4,163** to **$5,838**.
     * John, Lisa and James have the highest AOV $5,838, $5,338 and $5,338.
     * **Michael** has the lowest AOV of **$4,300**
     * **James** and **Lisa** both have the same AOV of **$5,338**.
+    ![total_orders_count_by_salesperson](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/11.total_orders_count_by_salesperson.jpg)
     * Another notable variation in our order count generated by salespersons ranging from **4** to **8** orders.
     * **James**, **Lisa**, **John** and **Emily** have the highest order count, **8** orders each.
     * **Michael** and **David** have the lowest order count, with **4** orders each.
