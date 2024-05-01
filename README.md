@@ -100,6 +100,12 @@ After cleaning, preparing and understanding the data found the following notes
     * **Tuesdays**, **Wednesdays**, and **Thursdays** often see higher sales compared to **Mondays** and **Fridays**, suggesting that mid-week days are more favorable for sales.
     * **Saturdays** generally have **moderate** sales, while **Sundays** consistently have **lower** sales across all months.
     * **While there are some consistent patterns, there are also variations in sales distribution across months, indicating that external factors or seasonal influences may affect purchasing behavior**.
+    ![seasonality_Index_(S.I.)_by_weekday](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/12.seasonality_Index_(S.I.)_by_weekday.jpg)
+    * **Friday** has the highest seasonality index of **1.08**, indicating that sales on **Fridays** are typically **8%** higher than the overall average sales.
+    * **Monday** has a seasonality index of **1.02**, suggesting that sales on **Mondays** are slightly above the overall average by **2%**.
+    * **Saturday** and **Sunday** both have a seasonality index of **0.97**, indicating that sales on weekends are slightly below the overall average by **3%**.
+    * **Thursday** and **Tuesday** also have a seasonality index of **0.97**, suggesting that sales on these weekdays are slightly below the overall average by **3%**.
+    * **Wednesday** has a seasonality index of **1.01**, implying that sales on **Wednesdays** are slightly above the overall average by **1%**.
     
 3) Based on our product category performance analysis we found the following:
     ![total_sales_amount_by_product_category](https://github.com/ahadel943/sales_analysis_03/blob/main/charts/3.total_sales_amount_by_product_category.jpg)
