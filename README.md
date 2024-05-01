@@ -190,6 +190,8 @@ After cleaning, preparing and understanding the data found the following notes
 
     * **Operational Efficiency:**
         * Optimize operational processes such as inventory management, staffing schedules, and delivery logistics based on anticipated fluctuations in sales volume. This can help improve overall operational efficiency and reduce costs.
+    
+    * **Optimizing Sales Strategies:** Adjust our sales and marketing strategies to capitalize on the days with higher seasonality index values. For example, focus promotional activities and marketing campaigns on Fridays and Mondays to leverage the higher sales potential on these days.
 
 3) Based on the findings from the product category analysis we recommend the following:
     * **Focus on High-Performing Categories:** allocate more resources, marketing efforts, and inventory towards the Electronics category, as it generates the highest income and represents a significant portion of total sales. This category seems to be a strong revenue driver for our business.
